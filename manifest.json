@@ -1,0 +1,11 @@
+{
+   "background": {
+      "service_worker": "service_worker.js"
+   },
+   "description": "Decodes hex strings. Highlight the string and right-click.",
+   "manifest_version": 3,
+   "name": "Hex Decoder",
+   "permissions": [ "contextMenus" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1"
+}
